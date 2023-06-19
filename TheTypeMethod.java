@@ -1,4 +1,4 @@
-public class MethodTheType {
+public class TheTypeMethod {
     public static <TheType extends Comparable<TheType>>
     TheType Triple(TheType i1, TheType i2, TheType i3) {
         TheType result = i1;
